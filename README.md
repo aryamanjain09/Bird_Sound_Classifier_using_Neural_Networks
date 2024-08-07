@@ -1,7 +1,7 @@
 
 # Chirpify - Bird Species Identification system
 
-Please refer to 'github uploaded project report .pdf' file for details about the process followed and technologies learned during creation of the ML model.
+Please refer to 'github uploaded project report .pdf' file for details about the process followed and technologies used during creation of the ML model.
 
 
 # Objectives behind creation of the project
